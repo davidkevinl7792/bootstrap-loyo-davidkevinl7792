@@ -1,0 +1,48 @@
+.bg-dark{
+    background-image:url("img/e.jpeg");
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.a{
+    border-width:5px;
+    border-style:solid;
+    border-color:black;
+}
+.b{
+    text-align:center;
+}
+.c{
+    background-color:#e0c9ab;
+}
+.f{
+    color:yellow;
+    text-align:center;
+    margin:20px;
+}
+.z{
+    margin:20px;
+}
+@media (min-width: 1200px){
+.d{
+    display:none;
+}
+}
+@media (max-width: 1199px){
+    .e{
+        display:none;
+    }
+    .y{
+        width:75%;
+    }
+}
+
+
+
+/*.carousel-inner{
+    height:500px;
+}
+.carousel-item{
+    height:800px;
+    width:500px;
+}*/
